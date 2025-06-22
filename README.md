@@ -1,7 +1,3 @@
-Here is a clean, copy-paste-friendly version of your `README.md` content without emojis or symbols:
-
----
-
 ````markdown
 # Diabetes Detection ML Classification Model
 
